@@ -1,7 +1,7 @@
 {
-	"ip":"play.inh.pw",
-	"port": "25565",
-	"name": "Imp0ster",
+	"ip":"ult10.falix.gg",
+	"port": "37036",
+	"name": "iworkatmojang",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
 	"register-cmd":"/register pass123 ",
