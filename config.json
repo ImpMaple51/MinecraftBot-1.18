@@ -4,6 +4,6 @@
 	"name": "Patolunix",
 	"auto-night-skip":"false",
 	"login-enabled":"false",
-	"register-cmd":"/register pass123 ",
-	"login-cmd":"/login pass123 "
+	"register-cmd":"/register pass322 pass322",
+	"login-cmd":"/login pass322"
 }
